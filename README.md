@@ -9,6 +9,7 @@ Home | Features | About the Project
 About Project:
 
 Maze Repository: https://github.com/KKirimi/The_Maze
+
 Team Member Profile: https://github.com/KKirimi
 
 Feature Section:
