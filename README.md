@@ -1,15 +1,20 @@
-The Maze Project:
+The Maze Project
+
 A 3D maze game developed using ray-casting and SDL2 library, featuring basic navigation and wall collision.
 
 Navigation Header Bar:
+
 Home | Features | About the Project
 
 About Project:
+
 Maze Repository: https://github.com/KKirimi/The_Maze
 Team Member Profile: https://github.com/KKirimi
 
 Feature Section:
+
 Wall Collision Feature 
+
 Description: This feature ensures that players cannot pass through walls while moving within the maze. In this way, the feature improves gameplay by creating a more realistic and challenging atmosphere for the players, thus adding an essential layer of functionality into the 3D environment.
 
 Project Inspiration:
