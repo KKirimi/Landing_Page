@@ -1,4 +1,4 @@
-The Maze Project
+The Maze Project:
 A 3D maze game developed using ray-casting and SDL2 library, featuring basic navigation and wall collision.
 
 Navigation Header Bar:
